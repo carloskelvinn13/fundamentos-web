@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(180deg, #b6b7b3 0%, #c09559 100%);
+     color: white;
+}
+
+ul li {
+
+list-style: none;
+display: inline-block;
+padding-right: 10px;
+padding-left: 0;
+
+}
+
+
+ul {
+
+    padding-left: 0;
+}
+
+
+form input {
+
+    margin: 10px 0 10px 0;
+    display: block;
+    width: 300px;
+    padding: 7px;
+}
+
+form textarea {
+
+    display: block;
+    margin-bottom: 15px;
+}
+
+
